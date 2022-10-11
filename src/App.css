@@ -5,3 +5,10 @@
 .App-container {
   display: flex;
 }
+
+.tab {
+  text-align: center;
+  display: inline-block;
+  margin: 2px;
+  padding: 10px 20px;
+}
